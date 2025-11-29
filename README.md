@@ -1,6 +1,15 @@
-# Meu Portifólio Claudia Nunes
+# Meu Portifólio – Claudia Nunes
 
-🚀 [Acesse meu portfólio aqui!](https://claudia-nunes.github.io/MeuPortifolio/#pagina-inicial)
+<p align="left">
+  <a href="https://claudia-nunes.github.io/MeuPortifolio/#pagina-inicial" target="_blank">
+    <img 
+      src="https://img.shields.io/badge/Acessar%20Portf%C3%B3lio-6366F1?style=for-the-badge&logo=github&logoColor=white" 
+      alt="Botão Portfólio"
+    />
+  </a>
+</p>
+
+
 
 <br>
 
