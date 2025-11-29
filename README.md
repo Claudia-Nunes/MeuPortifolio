@@ -7,21 +7,23 @@
 ## 📌 HOME
 <br>
 
-![Banner](https://github.com/user-attachments/assets/953b55b0-ec1f-4a53-9e61-3f36a98ae4b0)
+<img width="1402" height="705" alt="home" src="https://github.com/user-attachments/assets/d2b0a4e6-5c7b-498c-841e-7d43f3508540" />
 
 
 ## 📌 Sobre Mim
 <br>
+<img width="1397" height="852" alt="Sobre" src="https://github.com/user-attachments/assets/8d50b19d-250e-4345-b3fc-48f8bf1360b4" />
 
-![image](https://github.com/user-attachments/assets/71836fd2-c93f-403e-ac62-8e1f669afca4)
+
 
 
 
 
 ## 🚀 Projetos
 <br>
+<img width="1362" height="1498" alt="projetos" src="https://github.com/user-attachments/assets/74451256-337f-4f3b-9553-8b0175374038" />
 
-![image](https://github.com/user-attachments/assets/64036583-ee19-4d57-a51b-6b6abb1c5a21)
+
 
 
 
